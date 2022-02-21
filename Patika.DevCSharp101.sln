@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{8F3875D2-6B14-4703-B7C0-A4E208680296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{161EB0D4-8685-47EA-9C54-BA8847AF6E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{161EB0D4-8685-47EA-9C54-BA8847AF6E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifElseYapisi", "ifElseYapisi\ifElseYapisi.csproj", "{B5486993-E7C0-4E93-A053-C5790E2C371E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifElseYapisi", "ifElseYapisi\ifElseYapisi.csproj", "{B5486993-E7C0-4E93-A053-C5790E2C371E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B5486993-E7C0-4E93-A053-C5790E2C371E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5486993-E7C0-4E93-A053-C5790E2C371E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5486993-E7C0-4E93-A053-C5790E2C371E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
