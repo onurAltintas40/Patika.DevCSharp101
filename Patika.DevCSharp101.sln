@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifElseYapisi", "ifElseYapisi\ifElseYapisi.csproj", "{B5486993-E7C0-4E93-A053-C5790E2C371E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{0E9E5D69-1C84-4791-B9D5-7CC6D73CE635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{AE36795F-EF69-4B10-8CDD-FE3672230925}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{AE36795F-EF69-4B10-8CDD-FE3672230925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{DAF3B1EB-2CB0-470D-B5C5-043307DCF103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AE36795F-EF69-4B10-8CDD-FE3672230925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE36795F-EF69-4B10-8CDD-FE3672230925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE36795F-EF69-4B10-8CDD-FE3672230925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF3B1EB-2CB0-470D-B5C5-043307DCF103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF3B1EB-2CB0-470D-B5C5-043307DCF103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF3B1EB-2CB0-470D-B5C5-043307DCF103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF3B1EB-2CB0-470D-B5C5-043307DCF103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
