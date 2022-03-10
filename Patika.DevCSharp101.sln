@@ -35,7 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringMetotlar", "StringMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeveMath", "DateTimeveMath\DateTimeveMath.csproj", "{2FD7B969-143B-4708-9EBF-BB4E5343705E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{2CA4F122-03A7-4E68-A687-6E798D98A64B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\GenericList.csproj", "{2CA4F122-03A7-4E68-A687-6E798D98A64B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\ArrayList.csproj", "{0BEB3E32-D544-47DE-B58C-E46D814D2AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{34BD8F8B-A8A2-4147-BEE8-5517FC43A042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{2CA4F122-03A7-4E68-A687-6E798D98A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CA4F122-03A7-4E68-A687-6E798D98A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CA4F122-03A7-4E68-A687-6E798D98A64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEB3E32-D544-47DE-B58C-E46D814D2AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEB3E32-D544-47DE-B58C-E46D814D2AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEB3E32-D544-47DE-B58C-E46D814D2AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEB3E32-D544-47DE-B58C-E46D814D2AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BD8F8B-A8A2-4147-BEE8-5517FC43A042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BD8F8B-A8A2-4147-BEE8-5517FC43A042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BD8F8B-A8A2-4147-BEE8-5517FC43A042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BD8F8B-A8A2-4147-BEE8-5517FC43A042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
