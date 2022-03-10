@@ -17,10 +17,10 @@ namespace SinifKavrami
 
             Calisan calisan2 = new();
 
-            calisan1.Ad = "Ahmet";
-            calisan1.Soyad = "Keke";
-            calisan1.No = 87654321;
-            calisan1.Departman = "Satın Alma";
+            calisan2.Ad = "Ahmet";
+            calisan2.Soyad = "Keke";
+            calisan2.No = 87654321;
+            calisan2.Departman = "Satın Alma";
 
             calisan2.CalisanBilgileri();            
         }
@@ -32,7 +32,7 @@ namespace SinifKavrami
         public string Ad;
         public string Soyad;
         public int No;
-        public string Departman;
+        public string Departman;        
 
         public void CalisanBilgileri()
         {
