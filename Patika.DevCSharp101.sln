@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSinifveUyeler", "Stat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{099297DC-F9B8-4D26-B797-1581F67A0800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099297DC-F9B8-4D26-B797-1581F67A0800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099297DC-F9B8-4D26-B797-1581F67A0800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099297DC-F9B8-4D26-B797-1581F67A0800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099297DC-F9B8-4D26-B797-1581F67A0800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
