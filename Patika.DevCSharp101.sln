@@ -49,11 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KurucuFonksiyonlar", "Kuruc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulationveProperty", "EncapsulationveProperty\EncapsulationveProperty.csproj", "{2F9279BC-D9D6-4156-9BE0-37F8F589E086}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticSinifveUyeler", "StaticSinifveUyeler\StaticSinifveUyeler.csproj", "{FF41B823-67F9-4444-AFD4-8DEC30109795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticSinifveUyeler", "StaticSinifveUyeler\StaticSinifveUyeler.csproj", "{FF41B823-67F9-4444-AFD4-8DEC30109795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csproj", "{E0E0149D-D185-426D-A4AB-6E7439B3EF6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{099297DC-F9B8-4D26-B797-1581F67A0800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{099297DC-F9B8-4D26-B797-1581F67A0800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceOrnek", "InterfaceOrnek\InterfaceOrnek.csproj", "{55526B9E-5690-40D1-AA30-80FB99678B24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{099297DC-F9B8-4D26-B797-1581F67A0800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{099297DC-F9B8-4D26-B797-1581F67A0800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{099297DC-F9B8-4D26-B797-1581F67A0800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55526B9E-5690-40D1-AA30-80FB99678B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55526B9E-5690-40D1-AA30-80FB99678B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55526B9E-5690-40D1-AA30-80FB99678B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55526B9E-5690-40D1-AA30-80FB99678B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
