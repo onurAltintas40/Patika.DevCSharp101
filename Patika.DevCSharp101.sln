@@ -55,11 +55,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{099297DC-F9B8-4D26-B797-1581F67A0800}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceOrnek", "InterfaceOrnek\InterfaceOrnek.csproj", "{55526B9E-5690-40D1-AA30-80FB99678B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceOrnek", "InterfaceOrnek\InterfaceOrnek.csproj", "{55526B9E-5690-40D1-AA30-80FB99678B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractOrnek", "AbstractOrnek\AbstractOrnek.csproj", "{CBC74DA8-578B-4914-A02D-26428D1EEF5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractOrnek", "AbstractOrnek\AbstractOrnek.csproj", "{CBC74DA8-578B-4914-A02D-26428D1EEF5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelefonRehberiProjesi", "TelefonRehberiProjesi\TelefonRehberiProjesi.csproj", "{FB7FEE58-5778-4636-B59C-F1241035C54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelefonRehberiProjesi", "TelefonRehberiProjesi\TelefonRehberiProjesi.csproj", "{FB7FEE58-5778-4636-B59C-F1241035C54D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoUygulamasi", "ToDoUygulamasi\ToDoUygulamasi.csproj", "{8D103531-EA40-4644-8CE0-6D7E5BE1CA56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{FB7FEE58-5778-4636-B59C-F1241035C54D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB7FEE58-5778-4636-B59C-F1241035C54D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB7FEE58-5778-4636-B59C-F1241035C54D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D103531-EA40-4644-8CE0-6D7E5BE1CA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D103531-EA40-4644-8CE0-6D7E5BE1CA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D103531-EA40-4644-8CE0-6D7E5BE1CA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D103531-EA40-4644-8CE0-6D7E5BE1CA56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
